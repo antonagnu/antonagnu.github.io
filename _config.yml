@@ -3,10 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: David Antona
+title: Technical Lead
+email: antonagnu@email.co.uk
+website: https://2sherpas.github.io/
 
 # Social links
 twitter_username: facespics
@@ -14,10 +14,10 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#instagram_username: chillwildlife
+linkedin_username: David Antona
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
