@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 # Personal info
 name: David Antona
 title: Technical Lead
-email: antonagnu@email.co.uk
+email: antonagnu@gmail.co.uk
 website: https://2sherpas.github.io/
 
 # Social links
@@ -24,10 +24,10 @@ linkedin_username: david-antona-8b938376
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's David and I'm a senior Technical Lead. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name's David and I'm a senior Technical Lead as well as an book worm and a long distance runner. 
+  I have worked at a number of companies  with many different roles, from installing phone cable to software development and now leading technicals teams.
+  This combination of roles and companies has provided me with a wide set of skills that helps me participate in different areas of any project. and leadership skills.
+  
 # Projects Section
 # projects_title: Projects
 
