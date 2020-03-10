@@ -2,26 +2,17 @@
   company: Santander Technology
   link: santander.co.uk
   job_title: Technical Expert
-  dates: June 2017 - Present
+  
+  jobs:
+    - title: Technical Expert
+      dates: July 2017 - Present
+    - title: Team Technical Lead
+      dates: June 2009 - July 2017
   quote: >
-   Technical Lead and Mentor
+   Santander Technology is the software division for Santander UK Bank.
   description: | # this will include new lines to allow paragraphs
     As a Technical Expert at Santander Technology I was leadng a team responsable for designing and implementing CORE services for authentication. Those services are now consumed by the Online Banking Retail site and the Retail Mobile application.
     
     As part of my time as a Leader on the team I help the team not just delivered code but to spread knowledge and our passion for technology, we did run some 30 minutes talks about technology and Cyber security Challenges for our colleagues, our main intention with those initiatives were to share our love for technology and help others to learn.
     
     At that time I was working as a mentor for two colleagues working in different teams, it was a really positive experience that I enjoyed a lot.
-
-- layout: left
-  company: Santander Technology
-  link: santander.co.uk
-  job_title: Project Manager - Contractor
-  dates: June 2009 - July 2017
-  quote: >
-   Technical Team Lead
-  description: | # this will include new lines to allow paragraphs
-  During that part of my career in Santander I worked as a team leader for the team responsible for developing and maintaning the Retail Online Banking platform.
-  
-  I learned lots of things by working with developers in different technologies like BankSpehere and MainFrame, working with business analist and project manager as well as platforms teams to deploy the code.
-  
-  
