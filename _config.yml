@@ -43,10 +43,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering and leading people some of my other interests and hobbies are:
-   - Running
+   - Long distance running
    - Rock climbing
    - Reading
-   - Cooking
 
 # Footer
 footer_show_references: true
